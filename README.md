@@ -46,20 +46,17 @@ _possible_ questions/tasks/games
 
 ### Security concerns:
 
-mentor/mentee data breach
-
-system denial of service (maintaining uptime)
+- mentor/mentee data breach
+- system denial of service (maintaining uptime)
 
 #### Solutions:
 
-minimal data requirement
-
-weak (blind) link to central db e.g HEE database.
-
-serverside security measures, pentesting
+- minimal data requirement
+- weak (blind) link to central db e.g HEE database.
+- serverside security measures, pentesting
 
 
 
 ## Minimum Viable Product:
 
-mobile app to track mentees and send links and messages to mentees
+- mobile app to track mentees and send links and messages to mentees
