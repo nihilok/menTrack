@@ -51,7 +51,7 @@ _possible_ questions/tasks/games
 
 #### Solutions:
 
-- minimal data requirement
+- minimal data requirement, e.g PIN no. only
 - weak (blind) link to central db e.g HEE database.
 - serverside security measures, pentesting
 
